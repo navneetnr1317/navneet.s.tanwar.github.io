@@ -1,5 +1,8 @@
 # navneetnr1317.github.io
 
+# headings:
+======
+
 # H1
 ## H2
 ### H3
@@ -12,3 +15,5 @@ Alt-H1
 
 Alt-H2
 ------
+
+
