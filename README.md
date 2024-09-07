@@ -1,7 +1,7 @@
 # navneetnr1317.github.io
 
-# headings:
-======
+# HEADINGS
+
 
 # H1
 ## H2
@@ -17,3 +17,16 @@ Alt-H2
 ------
 
 
+
+# Formatting
+
+## Italics:
+*italics* 
+_italics_
+
+## Bold:
+**bold**
+__bold__
+
+# Strikthrough
+~~strikethrough~~ (double ~)
