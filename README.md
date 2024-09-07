@@ -28,5 +28,8 @@ _italics_
 **bold**
 __bold__
 
+**_bold itlaic_**
+
 # Strikthrough
 ~~strikethrough~~ (double ~)
+
